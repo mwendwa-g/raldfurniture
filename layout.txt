@@ -1,0 +1,60 @@
+//user account
+{
+    "name": "Gerald Mwendwa",
+    "email": "mwendwagerald72@gmail.com",
+    "password": "0026Gms7@#$_",
+    "phone": "0110125463",
+    "housenumber": "100",
+    "plotnumber": "113ba",
+    "street": "waiyakiloiloi",
+    "landmark": "g towers",
+    "county": "machakos",
+    "country": "kenya"
+}
+
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Store",
+      "name": "Rald Furniture Store",
+      "image": "https://yourwebsite.com/logo.png",
+      "@id": "https://yourwebsite.com",
+      "url": "https://yourwebsite.com",
+      "telephone": "+254110125463",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sweet Waters",
+        "addressLocality": "Machakos Town",
+        "addressRegion": "Machakos",
+        "postalCode": "90100",
+        "addressCountry": "KE"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "21:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/yourstore",
+        "https://www.instagram.com/yourstore",
+        "https://twitter.com/yourstore"
+      ]
+    }
+    </script> 
+
+    1f2a3b
